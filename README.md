@@ -1,4 +1,5 @@
 # Europe_Top_5_Leagues_2023-24_Season_Analysis
+[Winners & losers of the 2023/24 season || Source: Goal](https://github.com/Scalar100/Europe_Top_5_Leagues_2023-24_Season_Analysis/blob/main/Europe.png?raw=true)
 
 ## Executive Summary
 The 2023/2024 season across Europe's top five football leagues—Premier League, La Liga, Bundesliga, Serie A, and Ligue 1—was a rollercoaster packed with unforgettable moments and jaw-dropping performances. From last-minute goals to record-shattering achievements, the season kept fans on the edge of their seats. To capture the magic, I embarked on a thrilling data analysis adventure using Power BI, diving into a sea of statistics and trends that brought the season to life.
@@ -14,8 +15,29 @@ Transforming raw data into valuable insights began with meticulous preparation. 
 - **Ensuring Integrity**: Removing blank rows and duplicates using the filter function. Cross-checking data with the official competition's official websites helped correct any discrepancies such as swapped team names or missing scoreline.
 - **Aggregation**: Compiling statistics at various levels, such as team and competition metrics, for easy analysis.
 
+## Competitions Analyzed
+The analysis covers all twenty competitions involving only European teams played across Europe's top five leagues, they include:
+- **England:** Four competitions including the English Premier League, the Emirates FA Cup, the Carabao Cup, and the FA Community Shield.
+- **Spain:** Three competitions including La Liga, Copa del Rey, and Supercopa de España.
+- **Germany:** Three competitions including the Bundesliga, DFB Pokal, and DFL-Supercup.
+- **Italy:** Three competitions including Serie A, Coppa Italia, and Supercoppa Italiana.
+- **France:** Three competitions including Ligue 1, Coupe de France, and Trophée des Champions.
+- **UEFA Competitions:** Four competitions including the UEFA Champions League, UEFA Europa League, UEFA Conference League, and UEFA Super Cup.
+
+
 ## Data Visualization
 Unlocking the story within the data required compelling visuals. I harnessed Power BI to develop an interactive dashboard, making the data engaging and accessible. This dashboard enabled viewers to dive into various aspects, revealing team performances, competition analysis, significant season highlights, and comparisons between teams.
 
-## Key Insights
+## Key Insights and Analysis Overview
+In Germany, Harry Kane took the Bundesliga by storm, achieving a remarkable goal-scoring feat. However, his efforts were not enough to stop Xabi Alonso’s exciting side from achieving a domestic double while remaining unbeaten. 
+Jude Bellingham arrived at the Spanish capital in the summer of 2023 and seamlessly settled into the Galácticos’ team, making an instant impact on the field. He led his side to another La Liga triumph and added another UEFA Champions League trophy to their cabinet.
+In England, Manchester City made history by being the first team to win the Premier League title for four consecutive seasons. Inter Milan and Paris Saint-Germain also took the spotlight, conquering Italy and France, respectively.
+### Season Highlights
+Across the entire season, 2,833 matches were played in the twenty (20) competitions, resulting in a total of 8,461 goals scored, and 664 of the matches played ended in a draw. A total of 96 teams represented the Europe's top five leagues, and each of these teams participated in at least one of the competitions.
+### Match Analysis
+The English Premier League, La Liga, and Serie A led the chart for the most matches played, with 380 each. Ligue 1 and the Bundesliga followed with 306 matches each. The FA Community Shield, DFL-Supercup, Trophée des Champions, and UEFA Super Cup had the fewest matches, with one each.
+The season kicked off in August 2023 and extended until June. Around 200+ matches were played monthly, with the most matches taking place in the last months of the year—450 in November and 394 in December. The fewest matches were played in June (2 matches), signaling the end of the season. No matches were played in July, as it is the off-season.
+
+## Conclusion
+Relive the highs and lows, the triumphs and heartbreaks, and everything in between from Europe’s elite football leagues in the 2023/2024 season. This journey through the data is not just an analysis—it’s a celebration of the beautiful game in all its glory. Whether you’re a die-hard fan or a casual observer, the insights and stories uncovered in this analysis will make you appreciate the season even more.
 
