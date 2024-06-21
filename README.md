@@ -3,7 +3,9 @@
 
 ## Executive Summary
 The 2023/2024 season across Europe's top five football leagues—Premier League, La Liga, Bundesliga, Serie A, and Ligue 1—was a rollercoaster packed with unforgettable moments and jaw-dropping performances. From last-minute goals to record-shattering achievements, the season kept fans on the edge of their seats. To capture the magic, I embarked on a thrilling data analysis adventure using Power BI, diving into a sea of statistics and trends that brought the season to life.
+
 In the Premier League, Manchester City made history by winning a fourth consecutive title, while the race for European spots and relegation battles added excitement. La Liga showcased epic rivalries and emerging talents like Jude Bellingham and Lamine Yamal, making the Spanish top flight a theatre of dreams and drama. The Bundesliga was equally exhilarating, with Bayer Leverkusen shocking the football world by going undefeated all season. Serie A combined tactical prowess with dazzling flair, highlighting both legendary veterans and rising prodigies. Ligue 1, dubbed the "League of Talents," featured breathtaking displays of skill and ambition, with Kylian Mbappé’s PSG winning the title once again.
+
 Through my analysis, I uncovered fascinating insights and trends that defined each league's narrative, from goal-scoring patterns to defensive masterstrokes. Join me as we relive the highs and lows, triumphs and heartbreaks, and everything in between from Europe's elite football leagues in the 2023/2024 season. This journey through the data is not just an analysis—it's a celebration of the beautiful game in all its glory.
 
 ## Data Collection
@@ -31,6 +33,7 @@ Unlocking the story within the data required compelling visuals. I harnessed Pow
 ## Key Insights and Analysis Overview
 In Germany, Harry Kane took the Bundesliga by storm, achieving a remarkable goal-scoring feat. However, his efforts were not enough to stop Xabi Alonso’s exciting side from achieving a domestic double while remaining unbeaten. 
 Jude Bellingham arrived at the Spanish capital in the summer of 2023 and seamlessly settled into the Galácticos’ team, making an instant impact on the field. He led his side to another La Liga triumph and added another UEFA Champions League trophy to their cabinet.
+
 In England, Manchester City made history by being the first team to win the Premier League title for four consecutive seasons. Inter Milan and Paris Saint-Germain also took the spotlight, conquering Italy and France, respectively.
 ### Season Highlights
 Across the entire season, 2,833 matches were played in the twenty (20) competitions, resulting in a total of 8,461 goals scored, and 664 of the matches played ended in a draw. A total of 96 teams represented the Europe's top five leagues, and each of these teams participated in at least one of the competitions.
@@ -41,7 +44,9 @@ The season kicked off in August 2023 and extended until June. Around 200+ matche
 ## Unforgettable Moments of the 2023/2024 Season
 
 Bayer Leverkusen made history by winning the most matches in Europe's top five leagues, achieving an astonishing 43 victories in a historic unbeaten domestic season. They were closely followed by Manchester City and Real Madrid, each with 41 wins. However, the season wasn't kind to everyone; Darmstadt 98 managed only 3 wins after 35 games, while Salernitana, Granada, and Sheffield United each secured just 4 wins, finishing at the bottom of their respective leagues.
+
 Despite Bayer Leverkusen's impressive performance, their dream of a completely unbeaten season ended in heartbreak. They recorded the fewest losses, but their streak was shattered when Ademola Lookman of Atalanta scored a hat-trick, denying them an unbeaten record and a European trophy. Carlo Ancelotti’s Real Madrid also had a phenomenal season, losing just twice in 55 games.
+
 On the flip side, Sheffield United endured a challenging season, suffering the most losses with 29. They were followed closely by Burnley, Granada, Luton Town, and Salernitana, each with 26 losses.
 
 ## Conclusion
