@@ -11,7 +11,7 @@ To analyze the 2023/2024 season of Europe’s top five football leagues, I sourc
 ## Data Preparation
 Transforming raw data into valuable insights began with meticulous preparation. Utilizing Microsoft Excel, I reshaped the data into organized structures before importing it into Power BI for visualization. This process involved:
 - **Cleaning**: Eliminating duplicates and blanks, addressing missing values, and ensuring data is presented in a table format.
-- **Ensuring Integrity**: Removing blank rows and duplicates using the filter function. Cross-checking data with the official competition sites helped correct any discrepancies such as swapped team names.
+- **Ensuring Integrity**: Removing blank rows and duplicates using the filter function. Cross-checking data with the official competition's official websites helped correct any discrepancies such as swapped team names or missing scoreline.
 - **Aggregation**: Compiling statistics at various levels, such as team and competition metrics, for easy analysis.
 
 ## Data Visualization
