@@ -52,3 +52,5 @@ On the flip side, Sheffield United endured a challenging season, suffering the m
 ## Conclusion
 Relive the highs and lows, the triumphs and heartbreaks, and everything in between from Europe’s elite football leagues in the 2023/2024 season. Whether you’re a die-hard fan or a casual observer, the insights and stories uncovered in this analysis will make you appreciate the season even more.
 
+You want to interact with the dashboard? Or wish to compare your team’s performance to another, kindly click this [link](https://app.powerbi.com/view?r=eyJrIjoiMTEwNDFlODYtY2Y5NS00NWQ2LTg3ZTEtMTYwNWI1ZTM2OTQ0IiwidCI6IjFkZDZlZmUxLTk4MDctNGM1Yy04NzJiLWJmZDExZDIyNGEzMSJ9).
+
